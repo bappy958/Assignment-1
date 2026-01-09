@@ -141,3 +141,8 @@
     align-items: center;
     margin: 0 auto 20px;
 }
+/* solved icon problem */
+.red { background: #FEE2E2; }
+.blue { background: #DBEAFE; }
+.yellow { background: #FEF3C7; }
+.green { background: #D1FAE5; }

@@ -235,3 +235,32 @@
         gap: 10px;
     }
 }
+/* Footer */
+footer {
+    padding: 50px 8% 20px;
+    background: #F3F4F6;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    font-size: 20px;
+    margin-left: 15px;
+    color: #4B5563;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #30B868;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 20px;
+    color: #9CA3AF;
+}
